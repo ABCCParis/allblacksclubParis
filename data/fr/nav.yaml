@@ -1,0 +1,10 @@
+items:
+
+- title: 'News'
+  url: 'news-blog-fr'
+  
+- title: 'À propos'
+  url: 'about-us-fr'
+  
+- title: 'Événements'
+  url: 'all-events-fr'

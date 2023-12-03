@@ -1,0 +1,11 @@
+items:
+
+- title: 'News'
+  url: 'news-blog'
+  
+- title: 'About'
+  url: 'about-us'
+  
+- title: 'Events'
+  url: 'all-events'
+

@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "All Blacks Club Paris"
 #baseURL = "https://ABCCParis.github.io/allblacksclubParis/         http://localhost:1313/"
 
-baseURL = "http://localhost:1313/"
+baseURL = "https://ABCCParis.github.io/allblacksclubParis/"
 
 theme = "hugo-theme-massively"
 googleanalytics = ""
